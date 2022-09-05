@@ -1,4 +1,4 @@
-package data
+package emdb
 
 type ImportSpeaker struct {
 	Id   string
